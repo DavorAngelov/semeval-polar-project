@@ -19,19 +19,3 @@ The goal of this project is to build models and pipelines capable of accurately 
 ---
 
 ## Project Structure
-
-polar-semeval-project/
-│
-├── data/ # raw & processed data
-│
-├── notebooks/ # exploratory analysis / Jupyter notebooks
-│
-|── documentation/ # research reports
-|
-├── src/ # source code / model training scripts
-│
-├── results/ # outputs, predictions, evaluation
-|
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation (this file)
-└── .gitignore # Git ignore file
