@@ -1,0 +1,5 @@
+Model,Subset Accuracy,Hamming Loss,F1 Micro,F1 Macro,F1 Weighted,Jaccard Micro
+xlm-roberta-base,0.6562,0.0788,0.5772,0.1421,0.4793,0.4057
+bert-base-uncased,0.6937,0.0775,0.5571,0.2879,0.5257,0.3861
+distilbert-base-uncased,0.6875,0.0775,0.5634,0.2749,0.5268,0.3922
+roberta-base,0.6875,0.0813,0.5578,0.1769,0.5035,0.3868
