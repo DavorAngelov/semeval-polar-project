@@ -19,3 +19,7 @@ The goal of this project is to build models and pipelines capable of accurately 
 ---
 
 ## Project Structure
+files - has experiments for subtask1
+files2 - has experiments for subtask2
+files3 - has experiments for subtask3
+(inside all of the folders i have results inside teh results folder)
